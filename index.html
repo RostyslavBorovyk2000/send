@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <script src="./main.js" defer></script>
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Таблиця відправок</h1>
+        <input type="text" id="searchInput" placeholder="Пошук..." onkeyup="filterTable()">
+
+        <table id="shippingTable" style="display: contents;">
+            <thead>
+                <tr>
+                    <th class="head">Ім'я організації</th>
+                    <th>Населений пункт</th>
+                    <th>Область</th>
+                    <th>Номер відділення</th>
+                    <th>Назва представника</th>
+                    <th>Номер телефону</th>
+                    <th>Код ЄДРПОУ</th>
+                </tr>
+            </thead>
+            <tbody id="tableBody">
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
