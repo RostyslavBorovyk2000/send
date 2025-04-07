@@ -80,6 +80,8 @@ const shippingData = [
     { orgName: "Агро Ормс",city: "м.Староконстантинів", obl: "Хмельницька", branch: "1", repName: "Дарчук Віталій", phone: "+380 50 335 01 23 ", edrpou: "31328990" },
     { orgName: "Матейків Інвест",city: "м.Бар", obl: "Хмельницька", branch: "1", repName: "Андрій", phone: "+380 50 814 20 15", edrpou: "34918614" },
     { orgName: "Дитяки",city: "смт.Іванків", obl: "Київська", branch: "1", repName: "Лиманюк Анатолій", phone: "+380 67 372 43 89 ", edrpou: "41094273" },
+    { orgName: "Міша Буковел",city: "с.Паляниця", obl: "Івано-Франківська", branch: "1", repName: "Симак Михайло", phone: "+380 67 351 02 76 ", edrpou: "-" },
+    { orgName: "Захід Агро 2015",city: "м.Шепеівка", obl: "Хмельницька", branch: "1", repName: "Довбня Віктор", phone: "+380 67 381 16 17 ", edrpou: "39915047" },
 ];
 
 function loadTableData() {
