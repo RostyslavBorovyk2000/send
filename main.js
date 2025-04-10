@@ -83,6 +83,8 @@ const shippingData = [
     { orgName: "Міша Буковел",city: "с.Паляниця", obl: "Івано-Франківська", branch: "1", repName: "Симак Михайло", phone: "+380 67 351 02 76 ", edrpou: "-" },
     { orgName: "Захід Агро 2015",city: "м.Шепеівка", obl: "Хмельницька", branch: "1", repName: "Довбня Віктор", phone: "+380 67 381 16 17 ", edrpou: "39915047" },
     { orgName: "Рікат",city: "м.Золочів", obl: "Львівська", branch: "1", repName: "Володимер", phone: "+380 67 344 12 23 ", edrpou: "22329551" },
+    { orgName: "ВіаБуд",city: "м.Київ", obl: "Київська", branch: "39", repName: "Вовк Ольга", phone: "+380 97 962 77 91 ", edrpou: "42055649" },
+    { orgName: "Бондар + М",city: "м.Хмельницький", obl: "Хмельницька", branch: "поштомат 34261", repName: "Плахтінська", phone: "+380 68 990 01 01 ", edrpou: "ОТРИМУВАЧ ПРИВАТНА ОСОБА ОПЛАТА ОТРИМУВАЧА" },
 ];
 
 function loadTableData() {
