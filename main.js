@@ -86,6 +86,8 @@ const shippingData = [
     { orgName: "ВіаБуд",city: "м.Київ", obl: "Київська", branch: "39", repName: "Вовк Ольга", phone: "+380 97 962 77 91 ", edrpou: "42055649" },
     { orgName: "ФГ Власнк",city: "м.Староконстантинів", obl: "Хмелницька", branch: "4", repName: "Косюк Олександр", phone: "+380 97 453 91 49 ", edrpou: "-" },
     { orgName: "Бондар + М",city: "м.Хмельницький", obl: "Хмельницька", branch: "поштомат 34261", repName: "Плахтінська", phone: "+380 68 990 01 01 ", edrpou: "ОТРИМУВАЧ ПРИВАТНА ОСОБА ОПЛАТА ОТРИМУВАЧА" },
+    { orgName: "ДП Шпат",city: "м.Баранівка", obl: "Житомирська", branch: "1", repName: "Ладжигун Олег", phone: "+380 97 110 84 39 ", edrpou: "24705521" },
+    { orgName: "Саша Одеса",city: "с.Усатове", obl: "Одеська", branch: "1", repName: "Іванов Олександр", phone: "+380 67 485 12 43 ", edrpou: "-" },
 ];
 
 function loadTableData() {
