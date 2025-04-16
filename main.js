@@ -88,6 +88,7 @@ const shippingData = [
     { orgName: "Бондар + М",city: "м.Хмельницький", obl: "Хмельницька", branch: "поштомат 34261", repName: "Плахтінська", phone: "+380 68 990 01 01 ", edrpou: "ОТРИМУВАЧ ПРИВАТНА ОСОБА ОПЛАТА ОТРИМУВАЧА" },
     { orgName: "ДП Шпат",city: "м.Баранівка", obl: "Житомирська", branch: "1", repName: "Ладжигун Олег", phone: "+380 97 110 84 39 ", edrpou: "24705521" },
     { orgName: "Саша Одеса",city: "с.Усатове", obl: "Одеська", branch: "1", repName: "Іванов Олександр", phone: "+380 67 485 12 43 ", edrpou: "-" },
+    { orgName: "Дружба Миколаївка",city: "с.Козяттин", obl: "-", branch: "1", repName: "Володимер", phone: "+380 97 283 31 88 ", edrpou: "-" },
 ];
 
 function loadTableData() {
