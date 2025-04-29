@@ -91,7 +91,7 @@ const shippingData = [
     { orgName: "Дружба Миколаївка",city: "с.Козяттин", obl: "-", branch: "1", repName: "Володимер", phone: "+380 97 283 31 88 ", edrpou: "-" },
     { orgName: "Агро Велес",city: "м.Хмілник", obl: "Віницька", branch: "1", repName: "Ларса Бухгалтер", phone: "+380 63 882 59 07 ", edrpou: "39069819" },
     { orgName: "Летичів Продукт",city: "смт.Летичів", obl: "Хмельницька", branch: "1", repName: "Чучвера Віктор", phone: "+380 67 381 52 44 ", edrpou: "04594284" },
-    
+    { orgName: "Блангард",city: "м.Запоріжжя", obl: "Запоріжська", branch: "11", repName: "Кулініч Галина", phone: "+380 66 475 84 32 ", edrpou: "42612454" },
 ];
 
 function loadTableData() {
