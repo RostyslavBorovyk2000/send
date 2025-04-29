@@ -90,6 +90,8 @@ const shippingData = [
     { orgName: "Саша Одеса",city: "с.Усатове", obl: "Одеська", branch: "1", repName: "Іванов Олександр", phone: "+380 67 485 12 43 ", edrpou: "-" },
     { orgName: "Дружба Миколаївка",city: "с.Козяттин", obl: "-", branch: "1", repName: "Володимер", phone: "+380 97 283 31 88 ", edrpou: "-" },
     { orgName: "Агро Велес",city: "м.Хмілник", obl: "Віницька", branch: "1", repName: "Ларса Бухгалтер", phone: "+380 63 882 59 07 ", edrpou: "39069819" },
+    { orgName: "Летичів Продукт",city: "смт.Летичів", obl: "Хмельницька", branch: "1", repName: "Чучвера Віктор", phone: "+380 67 381 52 44 ", edrpou: "04594284" },
+    
 ];
 
 function loadTableData() {
