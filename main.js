@@ -95,6 +95,7 @@ const shippingData = [
     { orgName: "Ольвія",city: "с.Погребище", obl: "Віницька", branch: "1", repName: "Володимер", phone: "+380 50 461 92 86 ", edrpou: "35322725" },
     { orgName: "Фесіна Валентин",city: "смт.Млинів", obl: "Рівнинська", branch: "1", repName: "Фесіна Валентин", phone: "+380 66 526 99 37 ", edrpou: "-" },
     { orgName: "ФГ Аліса",city: "м.Волочиськ", obl: "Хмельницька", branch: "1", repName: "-", phone: "+380 96 104 85 45 ", edrpou: "-" },
+    { orgName: "Бюд Буд",city: "м.Теребовля", obl: "Тернопілська", branch: "1", repName: "Куцло Ігор", phone: "+380 98 872 27 04 ", edrpou: "-" },
 ];
 
 function loadTableData() {
