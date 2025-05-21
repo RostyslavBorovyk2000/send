@@ -93,6 +93,8 @@ const shippingData = [
     { orgName: "Летичів Продукт",city: "смт.Летичів", obl: "Хмельницька", branch: "1", repName: "Чучвера Віктор", phone: "+380 67 381 52 44 ", edrpou: "04594284" },
     { orgName: "Блангард (Документи)",city: "м.Запоріжжя", obl: "Запоріжська", branch: "11", repName: "Кулініч Галина", phone: "+380 66 475 84 32 ", edrpou: "42612454" },
     { orgName: "Ольвія",city: "с.Погребище", obl: "Віницька", branch: "1", repName: "Володимер", phone: "+380 50 461 92 86 ", edrpou: "35322725" },
+    { orgName: "Фесіна Валентин",city: "смт.Млинів", obl: "Рівнинська", branch: "1", repName: "Фесіна Валентин", phone: "+380 66 526 99 37 ", edrpou: "-" },
+    { orgName: "ФГ Аліса",city: "м.Волочиськ", obl: "Хмельницька", branch: "1", repName: "-", phone: "+380 96 104 85 45 ", edrpou: "-" },
 ];
 
 function loadTableData() {
