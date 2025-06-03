@@ -56,7 +56,7 @@ const shippingData = [
     { orgName: "-",city: "м.Почаїв", obl: "Тернопілська", branch: "2", repName: "Римський Віктор", phone: "+380 96 184 97 78 ", edrpou: "-" },
     { orgName: "ПКПФ Україна",city: "с.Понінка", obl: "Хмельницький", branch: "1", repName: "Гаврлюк Віталій", phone: "+380 97 701 24 95 ", edrpou: "41085075" },
     { orgName: "БНМ",city: "с.Кременець", obl: "Тернопілська", branch: "2", repName: "Борак Анатолій", phone: "+380 96 839 33 33 ", edrpou: "38117379" },
-    { orgName: "СВК Зоря",city: "с.Кіцьман", obl: "Чернівецька", branch: "1", repName: "Москалюк Василь", phone: "+380 95 741 28 55 ", edrpou: "03801675" },
+    { orgName: "СВК Зоря",city: "с.Кіцьман", obl: "Чернівецька", branch: "1", repName: "-", phone: "+380 97 961 12 07 ", edrpou: "03801675" },
     { orgName: "Буковиинський Зерно Продукт",city: "с.Романківці", obl: "Чернівецька", branch: "1", repName: "Бучка Ігор", phone: "+380 96 702 60 23 ", edrpou: "43713225" },
     { orgName: "Летичів Агро",city: "м.Бар", obl: "Віницька", branch: "1", repName: "Сергій", phone: "+380 68 760 07 37 ", edrpou: "34978673" },
     { orgName: "ДЛС Компані",city: "м.Жмернка", obl: "Віницька", branch: "1", repName: "Лесков Мхайло", phone: "+380 67 630 32 85 ", edrpou: "42717192" },
