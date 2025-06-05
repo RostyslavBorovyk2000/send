@@ -31,7 +31,7 @@ const shippingData = [
     { orgName: "Агро В",city: "с.Козин", obl: "Рівненська", branch: "1", repName: "Чуліпа Василь", phone: "+380 67 531 63 33 ", edrpou: "35882909" },
     { orgName: "Шепетівка Цукор",city: "м.Шепетівка", obl: "Хмельницька", branch: "1", repName: "Грищук Михайло", phone: "+380 97 418 47 12 ", edrpou: "00373391" },
     { orgName: "Таурус Агро",city: "м.Славута", obl: "Хмельницька", branch: "1", repName: "Косик Михайло", phone: "+380 67 383 46 86 ", edrpou: "41589110" },
-    { orgName: "Богородчани",city: "смт.Богородчании", obl: "Івано Франківська", branch: "1", repName: "Захарчук Михайло", phone: "+380 67 343 16 51 ", edrpou: "-" },
+    { orgName: "Агростаніслави",city: "смт.Богородчании", obl: "Івано Франківська", branch: "1", repName: "Захарчук Михайло", phone: "+380 67 343 16 51 ", edrpou: "-" },
     { orgName: "-",city: "с.Заліщики", obl: "Тернопільська", branch: "1", repName: "Лучак Іван", phone: "+380 96 346 19 68 ", edrpou: "-" },
     { orgName: "Борошномельна",city: "м.Дунаївці", obl: "Хмельницька", branch: "1", repName: "Биндю Андрій", phone: "+380 67 000 16 40 ", edrpou: "-" },
     { orgName: "Агрофірма Комунар",city: "с.Вільногірсььк", obl: "Днепропетровска", branch: "1", repName: "Стрижак Алла", phone: "+380 97 893 66 72 ", edrpou: "3109830" },
@@ -99,6 +99,7 @@ const shippingData = [
     { orgName: "ФГ Нива",city: "м.Дубно", obl: "Рівненська", branch: "1", repName: "Вадиим", phone: "+380 66 837 57 01 ", edrpou: "31471037" },
     { orgName: "Хуторок",city: "м.Дніпро", obl: "Дніпровська", branch: "8", repName: "Салкоч Олексій (На приватну особу)", phone: "+380 67 563 40 51 ", edrpou: "39585630" },
     { orgName: "Смаковіта",city: "с.Любинці", obl: "Львівська", branch: "1", repName: "Хомишин Михайло", phone: "+380 96 218 32 19 ", edrpou: "-" },
+{ orgName: "Подільське",city: "м.Теофіполь", obl: "Хмельницька", branch: "1", repName: "Петринюк Василь", phone: "+380 67 380 13 68 ", edrpou: "22776899" },
 ];
 
 function loadTableData() {
