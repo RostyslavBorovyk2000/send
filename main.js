@@ -64,7 +64,6 @@ const shippingData = [
     { orgName: "СФГ Манятин",city: "с.Берездів", obl: "Хмельницька", branch: "1", repName: "Олександр", phone: "+380 96 012 88 04 ", edrpou: "3728860" },
     { orgName: "ДЛС Партс",city: "м.Київ", obl: "Київська", branch: "18", repName: "Кривенький Олександр", phone: "+380 97 897 65 66 ", edrpou: "43902552" },
     { orgName: "ФГ Ілаш",city: "смт.Келььменці", obl: "Чернівецка", branch: "1", repName: "Ілаш Денис", phone: "+380 97 572 00 62 ", edrpou: "35194382" },
-    { orgName: "Краєвид Поділля",city: "м.Бар", obl: "Віницька", branch: "1", repName: "Коломійчук Руслан", phone: "+380 67 430 01 40 ", edrpou: "34918499" },
     { orgName: "СВК Лабунське",city: "с.Новолабун або Полоне", obl: "Хмельницька", branch: "1", repName: "Яськов Анатолій", phone: "+380 67 264 40 31 ", edrpou: "03789198" },
     { orgName: "Євромагістраль",city: "м.Дубно", obl: "Рівненська", branch: "1", repName: "Галянтковський Ю.М.", phone: "+380 99 918 77 28 ", edrpou: "43481546" },
     { orgName: "Герром Інвест Україна",city: "м.Хмельнцький", obl: "Хмелницька", branch: "6", repName: "Ходак Інна", phone: "+380 97 767 87 18 ", edrpou: "34175746" },
@@ -75,7 +74,7 @@ const shippingData = [
     { orgName: "Фінпром",city: "смт.Тоашпіль", obl: "Віницька", branch: "1", repName: "Савлук Марія", phone: "+380 68 006 87 38 ", edrpou: "36629177" },
     { orgName: "-",city: "с.Цебрикове", obl: "Одеська", branch: "1", repName: "Королевят Оксана", phone: "+380 99 450 14 55 ", edrpou: "-" },
     { orgName: "ЛАН",city: "м.Теребовля", obl: "Тернопілська", branch: "1", repName: "Гундзик Олександр", phone: "+380 97 391 62 07 ", edrpou: "30343672" },
-    { orgName: "ДП Пасічна",city: "м.Староконстантинів", obl: "Хмельницька", branch: "1", repName: "Таєнчук Віталій", phone: "+380 67 380 99 10 ", edrpou: "30925481" },
+    { orgName: "ДП Пасічна",city: "м.Староконстантинів", obl: "Хмельницька", branch: "1", repName: "Миколайович", phone: "+380 98 721 45 36 ", edrpou: "30925481" },
     { orgName: "-",city: "с.Турятка", obl: "Чернівецька", branch: "1", repName: "Малофій Дмитро", phone: "+380 97 734 79 82 ", edrpou: "-" },
     { orgName: "Агро Ормс",city: "м.Староконстантинів", obl: "Хмельницька", branch: "1", repName: "Дарчук Віталій", phone: "+380 50 335 01 23 ", edrpou: "31328990" },
     { orgName: "Матейків Інвест",city: "м.Бар", obl: "Хмельницька", branch: "1", repName: "Андрій", phone: "+380 50 814 20 15", edrpou: "34918614" },
@@ -99,8 +98,18 @@ const shippingData = [
     { orgName: "ФГ Нива",city: "м.Дубно", obl: "Рівненська", branch: "1", repName: "Вадиим", phone: "+380 66 837 57 01 ", edrpou: "31471037" },
     { orgName: "Хуторок",city: "м.Дніпро", obl: "Дніпровська", branch: "8", repName: "Салкоч Олексій (На приватну особу)", phone: "+380 67 563 40 51 ", edrpou: "39585630" },
     { orgName: "Смаковіта",city: "с.Любинці", obl: "Львівська", branch: "1", repName: "Хомишин Михайло", phone: "+380 96 218 32 19 ", edrpou: "-" },
-{ orgName: "Подільське",city: "м.Теофіполь", obl: "Хмельницька", branch: "1", repName: "Петринюк Василь", phone: "+380 67 380 13 68 ", edrpou: "22776899" },
-];
+    { orgName: "Подільське",city: "м.Теофіполь", obl: "Хмельницька", branch: "1", repName: "Петринюк Василь", phone: "+380 67 380 13 68 ", edrpou: "22776899" },
+    { orgName: "Глейшер Хілл (Документи)",city: "м.Івано-Франкіськ", obl: "Івано-Франкіська", branch: "11", repName: "Вичівська Ольга", phone: "+380 97 630 61 50 ", edrpou: "44721326" },
+    { orgName: "Краєвид Поділля",city: "м.Бар", obl: "Віницька", branch: "1", repName: "Коломійчук Руслан", phone: "+380 67 430 01 40 ", edrpou: "34918499" },
+    { orgName: "-",city: "м.Міжгіря", obl: "Закарпатська", branch: "1", repName: "Юртин Іван", phone: "+380 66 443 69 18 ", edrpou: "-" },
+    { orgName: "Глейшер Хілл",city: "м.Паляниця", obl: "Буковель", branch: "1", repName: "Попович Олександр", phone: "+380 50 905 41 33 ", edrpou: "44721326" },
+    { orgName: "-",city: "с.Цебриково", obl: "Одеська", branch: "1", repName: "Петришин Володимер", phone: "+380 66 210 66 60 ", edrpou: "-" },
+    { orgName: "Тавель",city: "с.Пядики", obl: "Івано-Франкіська", branch: "1", repName: "Кухарчук Іван", phone: "+380 98 602 56 98 ", edrpou: "33986678" },
+    { orgName: "Фіднова",city: "м.Буськ", obl: "Львівська", branch: "1", repName: "Шевчук Олександр", phone: "+380 97 577 60 58 ", edrpou: "42071643" },
+    { orgName: "Подільське",city: "м.Теофіполь", obl: "Хмельницька", branch: "1", repName: "Петринюк Василь", phone: "+380 67 380 13 68 ", edrpou: "22776899" },
+    { orgName: "-",city: "с.Козин", obl: "Рівненська", branch: "1", repName: "Іськович Віктор", phone: "+380 67 873 10 23 ", edrpou: "-" },
+];І
+
 
 function loadTableData() {
     const tableBody = document.getElementById('tableBody');
