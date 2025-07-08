@@ -108,7 +108,7 @@ const shippingData = [
     { orgName: "Фіднова",city: "м.Буськ", obl: "Львівська", branch: "1", repName: "Шевчук Олександр", phone: "+380 97 577 60 58 ", edrpou: "42071643" },
     { orgName: "Подільське",city: "м.Теофіполь", obl: "Хмельницька", branch: "1", repName: "Петринюк Василь", phone: "+380 67 380 13 68 ", edrpou: "22776899" },
     { orgName: "-  ",city: "с.Козин", obl: "Рівненська", branch: "1", repName: "Іськович Віктор", phone: "+380 67 873 10 23 ", edrpou: "-" },
-];І
+];
 
 
 function loadTableData() {
